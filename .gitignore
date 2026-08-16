@@ -1,0 +1,23 @@
+# CMake & Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CMakeScripts/
+Testing/
+
+# IDEs & OS generated files
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+chip8_emulator
